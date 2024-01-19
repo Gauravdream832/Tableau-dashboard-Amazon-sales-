@@ -2,7 +2,7 @@
 Amazon is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. 
 It has been often referred to as "one of the most influential economic and cultural forces in the world" and is often regarded as one of the world's most valuable brands.
 
-![am1 logo](https://github.com/rahulrajan15/amazon_sales_Tableau_dashbaord_/assets/113009011/e4c04433-cc4d-449b-a2f5-96972e72cb02)
+![am1 logo](https://public.tableau.com/authoring/Gaurav_Mahata/Dashboard1#1)
 
 # Project Summary
 
@@ -22,7 +22,7 @@ Datasets : Kaggle
 4) Enhanced decision-making with accurate KPIs, achieving 95% accuracy in tracking sales growth and customer satisfaction.
 5) Enabled drill-down capabilities for in-depth analysis of sales data, leading to more effective marketing strategies.
 
-![Amazon_dashboard](https://github.com/rahulrajan15/amazon_sales_Tableau_dashbaord_/assets/113009011/d166b636-215a-4c2d-a608-70737b7ef52a)
+
 
 # SignIn to Tableau public and copy paste the below link in browser to view.
-Amazon Tableau Dashboard : https://public.tableau.com/app/profile/rahul.rajan5084/viz/AmazonSalesIN/Dashboard1?publish=yes
+Amazon Tableau Dashboard : https://public.tableau.com/authoring/Gaurav_Mahata/Dashboard1#1

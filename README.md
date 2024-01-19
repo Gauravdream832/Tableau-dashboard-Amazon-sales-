@@ -17,7 +17,8 @@ The project facilitates data-driven decision-making, empowering Amazon to make i
 
 # Tools & datasets
 Data Visualization : Tableau, 
-Datasets : Kaggle
+Datasets : Kaggle   
+Dataset link : https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
 # Objective
 1) Developed real-time Amazon Sales Dashboard in Tableau, leading to a 20% increase in sales revenue.
